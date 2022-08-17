@@ -12,6 +12,8 @@ public class base_amazone
 {
      protected WebDriver driver;
      
+     // Change one made
+     
 	public void openbrowzer() throws IOException
 	{
 		System.setProperty("webdriver.chrome.driver", "F:\\Daily_Notes\\chromedriver.exe");
